@@ -17,10 +17,11 @@ Robert Forkel | 2021- | Max Planck Institute for Evolutionary Anthropology
 Package | Description
 --- | ---
 [pylodata](https://github.com/pylogeny/data) | Package provides routines to load data (e.g. from LingPy Wordlists), and also offers basic datasets for testing.
-[pylotree](https://github.com/pylogeny/data) | A wrapper of the Python newick package which provides some extra functionalities for Pylogeny packages.
-[pylostatistics](https://github.com/pylogeny/data) | A small package providing some statistic functions that would otherwise require "heavy" dependencies like SciPy and NumPy
-[pyloparsimony](https://github.com/pylogeny/data) | Package for parsimony operations.
-[pylolikelihood](https://github.com/pylogeny/data) | Package for likelihood computations (pruning algorithms for different models).
+[pylocluster]((https://github.com/pylogeny/cluster) | Package provides routines for clustering data (UPGMA, Neighbor-Joining).
+[pylotree](https://github.com/pylogeny/tree) | A wrapper of the Python newick package which provides some extra functionalities for Pylogeny packages.
+[pylostatistics](https://github.com/pylogeny/statistics) | A small package providing some statistic functions that would otherwise require "heavy" dependencies like SciPy and NumPy
+[pyloparsimony](https://github.com/pylogeny/parsimony) | Package for parsimony operations.
+[pylolikelihood](https://github.com/pylogeny/likelihood) | Package for likelihood computations (pruning algorithms for different models).
 
 ## Pylogeny Gallery
 
