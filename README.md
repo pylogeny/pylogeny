@@ -12,12 +12,14 @@ Johann-Mattis List | 2021- | Max Planck Institute for Evolutionary Anthropology
 Taraka Rama | 2021- | University of North Texas
 Robert Forkel | 2021- | Max Planck Institute for Evolutionary Anthropology
 
+Individual Pylogeny packages may have individual authors.
+
 ## Pylogeny Packages
 
 Package | Description
 --- | ---
 [pylodata](https://github.com/pylogeny/data) | Package provides routines to load data (e.g. from LingPy Wordlists), and also offers basic datasets for testing.
-[pylocluster]((https://github.com/pylogeny/cluster) | Package provides routines for clustering data (UPGMA, Neighbor-Joining).
+[pylocluster](https://github.com/pylogeny/cluster) | Package provides routines for clustering data (UPGMA, Neighbor-Joining).
 [pylotree](https://github.com/pylogeny/tree) | A wrapper of the Python newick package which provides some extra functionalities for Pylogeny packages.
 [pylostatistics](https://github.com/pylogeny/statistics) | A small package providing some statistic functions that would otherwise require "heavy" dependencies like SciPy and NumPy
 [pyloparsimony](https://github.com/pylogeny/parsimony) | Package for parsimony operations.
